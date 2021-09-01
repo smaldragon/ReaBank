@@ -8,7 +8,6 @@ Piano
 6 Mellow Upright 1 65 1
 7 Bright Upright 1 66 1
 8 Rock Piano 8 64 3
-
 9 Ragtime Piano 0 64 4
 10 Bright Forte 2 66 1
 11 SA Piano 3  8 71 3
