@@ -1,0 +1,17 @@
+// Generated using using rea-parse.py
+Bank 0 112 0 112
+80 (SYNTH) Square Lead
+81 (SYNTH) Sawtooth Lead
+85 (SYNTH) Voice Lead
+88 (SYNTH) Fantasia
+91 (SYNTH) Xenon Pad
+94 (SYNTH) Equinox
+98 (SYNTH) Star Dust
+100 (SYNTH) Brightness
+Bank 0 113 0 113
+89 (SYNTH) Dark Moon
+100 (SYNTH) Bell Pad
+Bank 0 115 0 115
+81 (SYNTH) Analogon
+Bank 0 119 0 119
+81 (SYNTH) Fargo

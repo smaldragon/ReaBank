@@ -1,0 +1,38 @@
+// Generated using using rea-parse.py
+Bank 0 0 0 0
+0 (PIANO) Grand Piano
+1 (PIANO) Bright Piano
+2 (PIANO) Electric Grand Piano
+3 (PIANO) Honky-tonk Piano
+4 (PIANO) Electric Piano 1
+5 (PIANO) Electric Piano 2
+6 (PIANO) Harpsichord
+7 (PIANO) Clavi
+Bank 0 1 0 1
+0 (PIANO) Grand Piano KSP
+1 (PIANO) Bright Piano KSP
+2 (PIANO) Electric Grand Piano KSP
+3 (PIANO) Honky-tonk Piano KSP
+4 (PIANO) Electric Piano 1 KSP
+5 (PIANO) Electric Piano 2 KSP
+6 (PIANO) Harpsichord KSP
+7 (PIANO) Clavi KSP
+Bank 0 32 0 32
+2 (PIANO) Detuned CP80
+4 (PIANO) Chorus Electric Piano 1
+5 (PIANO) Chorus Electric Piano 2
+Bank 0 35 0 35
+6 (PIANO) Harpsichord 2
+Bank 0 40 0 40
+0 (PIANO) Piano Strings
+Bank 0 41 0 41
+0 (PIANO) Dream
+5 (PIANO) DX + Analog Electric Piano
+Bank 0 112 0 112
+0 (PIANO) Grand Piano
+1 (PIANO) Bright Piano
+2 (PIANO) MIDI Grand Piano
+3 (PIANO) Honky-tonk Piano
+6 (PIANO) Harpsichord
+Bank 0 113 0 113
+2 (PIANO) CP 80

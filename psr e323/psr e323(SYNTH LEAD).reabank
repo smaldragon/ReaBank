@@ -1,0 +1,40 @@
+// Generated using using rea-parse.py
+Bank 0 0 0 0
+80 (SYNTH LEAD) Square Lead
+81 (SYNTH LEAD) Sawtooth Lead
+82 (SYNTH LEAD) Calliope Lead
+83 (SYNTH LEAD) Chiff Lead
+84 (SYNTH LEAD) Charang Lead
+85 (SYNTH LEAD) Voice Lead
+86 (SYNTH LEAD) Fifths Lead
+87 (SYNTH LEAD) Bass & Lead
+Bank 0 6 0 6
+80 (SYNTH LEAD) Square Lead 2
+81 (SYNTH LEAD) Sawtooth Lead 2
+Bank 0 8 0 8
+80 (SYNTH LEAD) LM Square
+81 (SYNTH LEAD) Thick Sawtooth
+Bank 0 16 0 16
+87 (SYNTH LEAD) Big & Low
+Bank 0 18 0 18
+80 (SYNTH LEAD) Hollow
+81 (SYNTH LEAD) Dynamic Sawtooth
+Bank 0 19 0 19
+80 (SYNTH LEAD) Shroud
+81 (SYNTH LEAD) Digital Sawtooth
+Bank 0 20 0 20
+81 (SYNTH LEAD) Big Lead
+Bank 0 35 0 35
+86 (SYNTH LEAD) Big Five
+Bank 0 64 0 64
+80 (SYNTH LEAD) Mellow
+84 (SYNTH LEAD) Distorted Lead
+87 (SYNTH LEAD) Fat & Perky
+Bank 0 65 0 65
+80 (SYNTH LEAD) Solo Sine
+82 (SYNTH LEAD) Pure Lead
+87 (SYNTH LEAD) Soft Whirl
+Bank 0 66 0 66
+80 (SYNTH LEAD) Sine Lead
+Bank 0 96 0 96
+81 (SYNTH LEAD) Sequenced Analog

@@ -1,0 +1,28 @@
+// Generated using using rea-parse.py
+Bank 0 66 0 66
+16 (Organ) Lower Organ
+19 (Organ) ChurchOrgan1
+Bank 0 69 0 69
+16 (Organ) Full Stops 
+18 (Organ) Ballad Organ
+Bank 0 70 0 70
+18 (Organ) Combo Jz.Org
+Bank 0 71 0 71
+16 (Organ) Gospel Spin
+Bank 1 65 1 65
+18 (Organ) B.Organ Slow
+Bank 8 69 8 69
+19 (Organ) ChurchOrgan2
+Bank 8 70 8 70
+19 (Organ) Pipe Organ
+Bank 16 65 16 65
+16 (Organ) Animal Mod 
+Bank 16 66 16 66
+16 (Organ) Surf Monkeys
+19 (Organ) Nason flt 8'
+Bank 16 67 16 67
+16 (Organ) Rising Sun 
+Bank 32 68 32 68
+16 (Organ) Mellow Bars
+Bank 32 69 32 69
+16 (Organ) Light Organ

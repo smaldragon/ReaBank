@@ -1,0 +1,22 @@
+// Generated using using rea-parse.py
+Bank 0 70 0 70
+46 (Strings) Harpiness  
+Bank 0 71 0 71
+49 (Strings) Rich Strings
+Bank 1 65 1 65
+49 (Strings) SymphonicStr2
+Bank 1 66 1 66
+60 (Strings) OrchestraBrs
+Bank 1 67 1 67
+48 (Strings) Epic Strings
+49 (Strings) SymphonicStr1
+Bank 8 66 8 66
+48 (Strings) Orchestra
+Bank 16 64 16 64
+48 (Strings) Chamber Str
+Bank 16 65 16 65
+48 (Strings) String Exp 
+Bank 16 66 16 66
+48 (Strings) Full Strings
+Bank 16 67 16 67
+48 (Strings) Strings forI

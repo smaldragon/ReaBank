@@ -1,0 +1,27 @@
+// Generated using using rea-parse.py
+Bank 0 64 0 64
+89 (Pad) Soft Pad
+Bank 0 66 0 66
+50 (Pad) Solina     
+92 (Pad) Legend Pad 
+Bank 0 67 0 67
+50 (Pad) Tron Strings
+97 (Pad) ChordofCnada
+Bank 0 68 0 68
+50 (Pad) JP8 Strings
+97 (Pad) Boreal Pad 
+Bank 0 69 0 69
+97 (Pad) New Jupiter
+Bank 1 64 1 64
+88 (Pad) D50 StackPad
+91 (Pad) Voice of Hvn
+Bank 1 66 1 66
+53 (Pad) Air Pad    
+Bank 1 70 1 70
+89 (Pad) JP8 Hollow 
+Bank 1 71 1 71
+89 (Pad) Super SynPad
+Bank 8 71 8 71
+52 (Pad) Choir Aahs 1
+Bank 8 72 8 72
+52 (Pad) Choir Aahs 2

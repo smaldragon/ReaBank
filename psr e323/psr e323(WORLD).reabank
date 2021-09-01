@@ -1,0 +1,25 @@
+// Generated using using rea-parse.py
+Bank 0 0 0 0
+104 (WORLD) Sitar
+105 (WORLD) Banjo
+106 (WORLD) Shamisen
+107 (WORLD) Koto
+108 (WORLD) Kalimba
+109 (WORLD) Bagpipe
+110 (WORLD) Fiddle
+111 (WORLD) Shanai
+Bank 0 28 0 28
+105 (WORLD) Muted Banjo
+Bank 0 32 0 32
+104 (WORLD) Detuned Sitar
+Bank 0 35 0 35
+104 (WORLD) Sitar 2
+Bank 0 96 0 96
+105 (WORLD) Rabab
+107 (WORLD) Taisho-kin
+Bank 0 97 0 97
+104 (WORLD) Tamboura
+105 (WORLD) Gopichant
+107 (WORLD) Kanoon
+Bank 0 98 0 98
+105 (WORLD) Oud

@@ -1,0 +1,30 @@
+// Generated using using rea-parse.py
+Bank 0 0 0 0
+40 (STRINGS) Violin
+41 (STRINGS) Viola
+42 (STRINGS) Cello
+43 (STRINGS) Contrabass
+44 (STRINGS) Tremolo Strings
+45 (STRINGS) Pizzicato Strings
+46 (STRINGS) Orchestral Harp
+47 (STRINGS) Timpani
+Bank 0 8 0 8
+40 (STRINGS) Slow Violin
+44 (STRINGS) Slow Tremolo Strings
+Bank 0 40 0 40
+44 (STRINGS) Suspense Strings
+46 (STRINGS) Yang Chin
+Bank 0 112 0 112
+40 (STRINGS) Violin
+42 (STRINGS) Cello
+43 (STRINGS) Contrabass
+44 (STRINGS) Tremolo Strings
+45 (STRINGS) Pizzicato Strings
+46 (STRINGS) Harp
+48 (STRINGS) String Ensemble
+49 (STRINGS) Chamber Strings
+50 (STRINGS) Synth Strings
+55 (STRINGS) Orchestra Hit
+105 (STRINGS) Banjo
+Bank 0 113 0 113
+49 (STRINGS) Slow Strings

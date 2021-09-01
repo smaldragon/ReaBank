@@ -1,0 +1,11 @@
+// Generated using using rea-parse.py
+Bank 120 0 120 0
+0 (Drums) STANDARD Set
+8 (Drums) ROOM Set
+16 (Drums) POWER Set
+24 (Drums) ELEC.Set
+25 (Drums) ANALOG Set
+32 (Drums) JAZZ Set
+40 (Drums) BRUSH Set
+48 (Drums) ORCH.Set
+56 (Drums) SFX Set

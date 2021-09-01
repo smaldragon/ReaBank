@@ -1,0 +1,32 @@
+// Generated using using rea-parse.py
+Bank 0 0 0 0
+112 (PERCUSSIVE) Tinkle Bell
+113 (PERCUSSIVE) Agogo
+114 (PERCUSSIVE) Steel Drums
+115 (PERCUSSIVE) Woodblock
+116 (PERCUSSIVE) Taiko Drum
+117 (PERCUSSIVE) Melodic Tom
+118 (PERCUSSIVE) Synth Drum
+119 (PERCUSSIVE) Reverse Cymbal
+Bank 0 64 0 64
+117 (PERCUSSIVE) Melodic Tom 2
+118 (PERCUSSIVE) Analog Tom
+Bank 0 65 0 65
+117 (PERCUSSIVE) Real Tom
+118 (PERCUSSIVE) Electronic Percussion
+Bank 0 66 0 66
+117 (PERCUSSIVE) Rock Tom
+Bank 0 96 0 96
+112 (PERCUSSIVE) Bonang
+115 (PERCUSSIVE) Castanets
+116 (PERCUSSIVE) Gran Cassa
+Bank 0 97 0 97
+112 (PERCUSSIVE) Altair
+114 (PERCUSSIVE) Glass Percussion
+Bank 0 98 0 98
+112 (PERCUSSIVE) Gamelan Gongs
+114 (PERCUSSIVE) Thai Bells
+Bank 0 99 0 99
+112 (PERCUSSIVE) Stereo Gamelan Gongs
+Bank 0 100 0 100
+112 (PERCUSSIVE) Rama Cymbal

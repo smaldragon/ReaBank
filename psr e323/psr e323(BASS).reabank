@@ -1,0 +1,53 @@
+// Generated using using rea-parse.py
+Bank 0 0 0 0
+32 (BASS) Acoustic Bass
+33 (BASS) Finger Bass
+34 (BASS) Pick Bass
+35 (BASS) Fretless Bass
+36 (BASS) Slap Bass 1
+37 (BASS) Slap Bass 2
+38 (BASS) Synth Bass 1
+39 (BASS) Synth Bass 2
+Bank 0 6 0 6
+39 (BASS) Mellow Synth Bass
+Bank 0 12 0 12
+39 (BASS) Sequenced Bass
+Bank 0 18 0 18
+33 (BASS) Finger Dark
+39 (BASS) Click Synth Bass
+Bank 0 19 0 19
+39 (BASS) Synth Bass 2 Dark
+Bank 0 28 0 28
+34 (BASS) Muted Pick Bass
+Bank 0 32 0 32
+35 (BASS) Fretless Bass 2
+36 (BASS) Punch Thumb Bass
+Bank 0 33 0 33
+35 (BASS) Fretless Bass 3
+Bank 0 34 0 34
+35 (BASS) Fretless Bass 4
+Bank 0 40 0 40
+32 (BASS) Jazz Rhythm
+33 (BASS) Bass & Distorted Electric Guitar
+38 (BASS) Techno Synth Bass
+39 (BASS) Modular Synth Bass
+Bank 0 41 0 41
+39 (BASS) DX Bass
+Bank 0 43 0 43
+33 (BASS) Finger Slap Bass
+37 (BASS) Velocity Switch Slap
+Bank 0 45 0 45
+32 (BASS) Velocity Crossfade Upright Bass
+33 (BASS) Finger Bass 2
+Bank 0 65 0 65
+33 (BASS) Modulated Bass
+Bank 0 112 0 112
+32 (BASS) Acoustic Bass
+33 (BASS) Finger Bass
+34 (BASS) Pick Bass
+35 (BASS) Fretless Bass
+36 (BASS) Slap Bass
+38 (BASS) Synth Bass
+Bank 0 113 0 113
+38 (BASS) Hi-Q Bass
+39 (BASS) Dance Bass

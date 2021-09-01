@@ -1,0 +1,48 @@
+// Generated using using rea-parse.py
+Bank 0 0 0 0
+24 (GUITAR) Nylon Guitar
+25 (GUITAR) Steel Guitar
+26 (GUITAR) Jazz Guitar
+27 (GUITAR) Clean Guitar
+28 (GUITAR) Muted Guitar
+29 (GUITAR) Overdriven Guitar
+30 (GUITAR) Distortion Guitar
+31 (GUITAR) Guitar Harmonics
+Bank 0 32 0 32
+26 (GUITAR) Jazz Amp
+27 (GUITAR) Chorus Guitar
+Bank 0 35 0 35
+25 (GUITAR) 12-string Guitar
+Bank 0 40 0 40
+25 (GUITAR) Nylon & Steel Guitar
+28 (GUITAR) Funk Guitar
+30 (GUITAR) Feedback Guitar
+Bank 0 41 0 41
+25 (GUITAR) Steel Guitar with Body Sound
+28 (GUITAR) Muted Steel Guitar
+30 (GUITAR) Feedback Guitar 2
+Bank 0 43 0 43
+24 (GUITAR) Velocity Guitar Harmonics
+29 (GUITAR) Guitar Pinch
+Bank 0 45 0 45
+28 (GUITAR) Jazz Man
+Bank 0 65 0 65
+31 (GUITAR) Guitar Feedback
+Bank 0 66 0 66
+31 (GUITAR) Guitar Harmonics 2
+Bank 0 96 0 96
+24 (GUITAR) Ukulele
+25 (GUITAR) Mandolin
+Bank 0 112 0 112
+24 (GUITAR) Classical Guitar
+25 (GUITAR) Folk Guitar
+26 (GUITAR) Jazz Guitar
+27 (GUITAR) Clean Guitar
+28 (GUITAR) Muted Guitar
+29 (GUITAR) Overdriven Guitar
+30 (GUITAR) Distortion Guitar
+Bank 0 113 0 113
+25 (GUITAR) 12Strings Guitar
+26 (GUITAR) Octave Guitar
+Bank 0 117 0 117
+27 (GUITAR) 60’s Clean Guitar

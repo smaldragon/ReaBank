@@ -1,0 +1,27 @@
+// Generated using using rea-parse.py
+Bank 0 0 0 0
+8 (CHROMATIC) Celesta
+9 (CHROMATIC) Glockenspiel
+10 (CHROMATIC) Music Box
+11 (CHROMATIC) Vibraphone
+12 (CHROMATIC) Marimba
+13 (CHROMATIC) Xylophone
+14 (CHROMATIC) Tubular Bells
+15 (CHROMATIC) Dulcimer
+Bank 0 1 0 1
+11 (CHROMATIC) Vibraphone KSP
+12 (CHROMATIC) Marimba KSP
+Bank 0 35 0 35
+15 (CHROMATIC) Dulcimer 2
+Bank 0 64 0 64
+10 (CHROMATIC) Orgel
+12 (CHROMATIC) Sine Marimba
+Bank 0 96 0 96
+14 (CHROMATIC) Church Bells
+15 (CHROMATIC) Cimbalom
+Bank 0 97 0 97
+12 (CHROMATIC) Balimba
+14 (CHROMATIC) Carillon
+15 (CHROMATIC) Santur
+Bank 0 98 0 98
+12 (CHROMATIC) Log Drums

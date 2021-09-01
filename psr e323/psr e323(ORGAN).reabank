@@ -1,0 +1,65 @@
+// Generated using using rea-parse.py
+Bank 0 0 0 0
+16 (ORGAN) Drawbar Organ
+17 (ORGAN) Percussive Organ
+18 (ORGAN) Rock Organ
+19 (ORGAN) Church Organ
+20 (ORGAN) Reed Organ
+21 (ORGAN) Accordion
+22 (ORGAN) Harmonica
+23 (ORGAN) Tango Accordion
+Bank 0 24 0 24
+17 (ORGAN) 70’s Percussive Organ
+Bank 0 32 0 32
+16 (ORGAN) Detuned Drawbar Organ
+17 (ORGAN) Detuned Percussive Organ
+19 (ORGAN) Church Organ 3
+22 (ORGAN) Harmonica 2
+Bank 0 33 0 33
+16 (ORGAN) 60’s Drawbar Organ 1
+17 (ORGAN) Light Organ
+Bank 0 34 0 34
+16 (ORGAN) 60’s Drawbar Organ 2
+Bank 0 35 0 35
+16 (ORGAN) 70’s Drawbar Organ 1
+19 (ORGAN) Church Organ 2
+Bank 0 37 0 37
+16 (ORGAN) 60’s Drawbar Organ 3
+17 (ORGAN) Percussive Organ 2
+Bank 0 40 0 40
+16 (ORGAN) 16+2’2/3
+19 (ORGAN) Notre Dame
+20 (ORGAN) Puff Organ
+Bank 0 64 0 64
+16 (ORGAN) Organ Bass
+18 (ORGAN) Rotary Organ
+19 (ORGAN) Organ Flute
+23 (ORGAN) Tango Accordion 2
+Bank 0 65 0 65
+16 (ORGAN) 70’s Drawbar Organ 2
+18 (ORGAN) Slow Rotary
+19 (ORGAN) Tremolo Organ Flute
+Bank 0 66 0 66
+16 (ORGAN) Cheezy Organ
+18 (ORGAN) Fast Rotary
+Bank 0 67 0 67
+16 (ORGAN) Drawbar Organ 2
+Bank 0 112 0 112
+16 (ORGAN) Jazz Organ 1
+17 (ORGAN) Click Organ
+18 (ORGAN) Rock Organ
+19 (ORGAN) Church Organ
+20 (ORGAN) Reed Organ
+Bank 0 113 0 113
+16 (ORGAN) Jazz Organ 2
+19 (ORGAN) Chapel Organ
+Bank 0 114 0 114
+18 (ORGAN) Purple Organ
+Bank 0 116 0 116
+16 (ORGAN) Bright Organ
+Bank 0 120 0 120
+19 (ORGAN) 16’+4’ Organ
+Bank 0 121 0 121
+19 (ORGAN) 16’+2’ Organ
+Bank 0 127 0 127
+18 (ORGAN) Theater Organ

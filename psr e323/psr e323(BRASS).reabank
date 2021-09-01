@@ -1,0 +1,36 @@
+// Generated using using rea-parse.py
+Bank 0 0 0 0
+56 (BRASS) Trumpet
+57 (BRASS) Trombone
+58 (BRASS) Tuba
+59 (BRASS) Muted Trumpet
+60 (BRASS) French Horn
+61 (BRASS) Brass Section
+62 (BRASS) Synth Brass 1
+63 (BRASS) Synth Brass 2
+Bank 0 6 0 6
+60 (BRASS) French Horn Solo
+Bank 0 18 0 18
+57 (BRASS) Trombone 2
+63 (BRASS) Soft Brass
+Bank 0 20 0 20
+62 (BRASS) Resonant Synth Brass
+Bank 0 32 0 32
+56 (BRASS) Warm Trumpet
+60 (BRASS) French Horn 2
+Bank 0 35 0 35
+61 (BRASS) Trumpet & Trombone Section
+Bank 0 37 0 37
+60 (BRASS) Horn Orchestra
+Bank 0 41 0 41
+63 (BRASS) Choir Brass
+Bank 0 112 0 112
+61 (BRASS) Brass Section
+62 (BRASS) Synth Brass
+Bank 0 113 0 113
+61 (BRASS) Big Band Brass
+62 (BRASS) 80’s Brass
+Bank 0 114 0 114
+62 (BRASS) Techno Brass
+Bank 0 119 0 119
+61 (BRASS) Mellow Horns

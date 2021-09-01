@@ -1,0 +1,31 @@
+// Generated using using rea-parse.py
+Bank 0 64 0 64
+3 (Piano) Ragtime Piano
+Bank 0 67 0 67
+6 (Piano) Harpsichord
+Bank 0 68 0 68
+0 (Piano) Concert Piano
+Bank 1 65 1 65
+0 (Piano) Mellow Upright
+Bank 1 66 1 66
+0 (Piano) Bright Upright
+Bank 2 66 2 66
+0 (Piano) Bright Forte
+Bank 4 64 4 64
+0 (Piano) Mellow Piano
+Bank 8 64 8 64
+2 (Piano) Rock Piano
+Bank 8 66 8 66
+1 (Piano) Bright Piano
+Bank 8 67 8 67
+6 (Piano) Harpsi 8'+4'
+Bank 8 71 8 71
+2 (Piano) SA Piano 3 
+Bank 8 72 8 72
+2 (Piano) 70's E.Grand
+Bank 16 64 16 64
+0 (Piano) Upright Piano
+Bank 16 67 16 67
+0 (Piano) Ballad Piano
+Bank 47 65 47 65
+2 (Piano) Magical Piano

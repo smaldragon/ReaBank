@@ -1,0 +1,533 @@
+// Generated using using rea-parse.py
+Bank 0 0 0 0
+0 (PIANO) Grand Piano
+1 (PIANO) Bright Piano
+2 (PIANO) Electric Grand Piano
+3 (PIANO) Honky-tonk Piano
+4 (PIANO) Electric Piano 1
+5 (PIANO) Electric Piano 2
+6 (PIANO) Harpsichord
+7 (PIANO) Clavi
+8 (CHROMATIC) Celesta
+9 (CHROMATIC) Glockenspiel
+10 (CHROMATIC) Music Box
+11 (CHROMATIC) Vibraphone
+12 (CHROMATIC) Marimba
+13 (CHROMATIC) Xylophone
+14 (CHROMATIC) Tubular Bells
+15 (CHROMATIC) Dulcimer
+16 (ORGAN) Drawbar Organ
+17 (ORGAN) Percussive Organ
+18 (ORGAN) Rock Organ
+19 (ORGAN) Church Organ
+20 (ORGAN) Reed Organ
+21 (ORGAN) Accordion
+22 (ORGAN) Harmonica
+23 (ORGAN) Tango Accordion
+24 (GUITAR) Nylon Guitar
+25 (GUITAR) Steel Guitar
+26 (GUITAR) Jazz Guitar
+27 (GUITAR) Clean Guitar
+28 (GUITAR) Muted Guitar
+29 (GUITAR) Overdriven Guitar
+30 (GUITAR) Distortion Guitar
+31 (GUITAR) Guitar Harmonics
+32 (BASS) Acoustic Bass
+33 (BASS) Finger Bass
+34 (BASS) Pick Bass
+35 (BASS) Fretless Bass
+36 (BASS) Slap Bass 1
+37 (BASS) Slap Bass 2
+38 (BASS) Synth Bass 1
+39 (BASS) Synth Bass 2
+40 (STRINGS) Violin
+41 (STRINGS) Viola
+42 (STRINGS) Cello
+43 (STRINGS) Contrabass
+44 (STRINGS) Tremolo Strings
+45 (STRINGS) Pizzicato Strings
+46 (STRINGS) Orchestral Harp
+47 (STRINGS) Timpani
+48 (ENSEMBLE) Strings 1
+49 (ENSEMBLE) Strings 2
+50 (ENSEMBLE) Synth Strings 1
+51 (ENSEMBLE) Synth Strings 2
+52 (ENSEMBLE) Choir Aahs
+53 (ENSEMBLE) Voice Oohs
+54 (ENSEMBLE) Synth Voice
+55 (ENSEMBLE) Orchestra Hit
+56 (BRASS) Trumpet
+57 (BRASS) Trombone
+58 (BRASS) Tuba
+59 (BRASS) Muted Trumpet
+60 (BRASS) French Horn
+61 (BRASS) Brass Section
+62 (BRASS) Synth Brass 1
+63 (BRASS) Synth Brass 2
+64 (REED) Soprano Sax
+65 (REED) Alto Sax
+66 (REED) Tenor Sax
+67 (REED) Baritone Sax
+68 (REED) Oboe
+69 (REED) English Horn
+70 (REED) Bassoon
+71 (REED) Clarinet
+72 (PIPE) Piccolo
+73 (PIPE) Flute
+74 (PIPE) Recorder
+75 (PIPE) Pan Flute
+76 (PIPE) Blown Bottle
+77 (PIPE) Shakuhachi
+78 (PIPE) Whistle
+79 (PIPE) Ocarina
+80 (SYNTH LEAD) Square Lead
+81 (SYNTH LEAD) Sawtooth Lead
+82 (SYNTH LEAD) Calliope Lead
+83 (SYNTH LEAD) Chiff Lead
+84 (SYNTH LEAD) Charang Lead
+85 (SYNTH LEAD) Voice Lead
+86 (SYNTH LEAD) Fifths Lead
+87 (SYNTH LEAD) Bass & Lead
+88 (SYNTH PAD) New Age Pad
+89 (SYNTH PAD) Warm Pad
+90 (SYNTH PAD) Poly Synth Pad
+91 (SYNTH PAD) Choir Pad
+92 (SYNTH PAD) Bowed Pad
+93 (SYNTH PAD) Metallic Pad
+94 (SYNTH PAD) Halo Pad
+95 (SYNTH PAD) Sweep Pad
+96 (SYNTH EFFECTS) Rain
+97 (SYNTH EFFECTS) Sound Track
+98 (SYNTH EFFECTS) Crystal
+99 (SYNTH EFFECTS) Atmosphere
+100 (SYNTH EFFECTS) Brightness
+101 (SYNTH EFFECTS) Goblins
+102 (SYNTH EFFECTS) Echoes
+103 (SYNTH EFFECTS) Sci-Fi
+104 (WORLD) Sitar
+105 (WORLD) Banjo
+106 (WORLD) Shamisen
+107 (WORLD) Koto
+108 (WORLD) Kalimba
+109 (WORLD) Bagpipe
+110 (WORLD) Fiddle
+111 (WORLD) Shanai
+112 (PERCUSSIVE) Tinkle Bell
+113 (PERCUSSIVE) Agogo
+114 (PERCUSSIVE) Steel Drums
+115 (PERCUSSIVE) Woodblock
+116 (PERCUSSIVE) Taiko Drum
+117 (PERCUSSIVE) Melodic Tom
+118 (PERCUSSIVE) Synth Drum
+119 (PERCUSSIVE) Reverse Cymbal
+120 (SOUND EFFECTS) Fret Noise
+121 (SOUND EFFECTS) Breath Noise
+122 (SOUND EFFECTS) Seashore
+123 (SOUND EFFECTS) Bird Tweet
+124 (SOUND EFFECTS) Telephone Ring
+125 (SOUND EFFECTS) Helicopter
+126 (SOUND EFFECTS) Applause
+127 (SOUND EFFECTS) Gunshot
+Bank 0 1 0 1
+0 (PIANO) Grand Piano KSP
+1 (PIANO) Bright Piano KSP
+2 (PIANO) Electric Grand Piano KSP
+3 (PIANO) Honky-tonk Piano KSP
+4 (PIANO) Electric Piano 1 KSP
+5 (PIANO) Electric Piano 2 KSP
+6 (PIANO) Harpsichord KSP
+7 (PIANO) Clavi KSP
+11 (CHROMATIC) Vibraphone KSP
+12 (CHROMATIC) Marimba KSP
+Bank 0 3 0 3
+48 (ENSEMBLE) Stereo Strings
+49 (ENSEMBLE) Stereo Slow Strings
+52 (ENSEMBLE) Stereo Choir
+Bank 0 6 0 6
+39 (BASS) Mellow Synth Bass
+60 (BRASS) French Horn Solo
+80 (SYNTH LEAD) Square Lead 2
+81 (SYNTH LEAD) Sawtooth Lead 2
+Bank 0 8 0 8
+40 (STRINGS) Slow Violin
+44 (STRINGS) Slow Tremolo Strings
+48 (ENSEMBLE) Slow Strings
+49 (ENSEMBLE) Legato Strings
+80 (SYNTH LEAD) LM Square
+81 (SYNTH LEAD) Thick Sawtooth
+Bank 0 12 0 12
+39 (BASS) Sequenced Bass
+98 (SYNTH EFFECTS) Synth Drum Comp
+Bank 0 14 0 14
+98 (SYNTH EFFECTS) Popcorn
+Bank 0 16 0 16
+87 (SYNTH LEAD) Big & Low
+Bank 0 18 0 18
+33 (BASS) Finger Dark
+39 (BASS) Click Synth Bass
+57 (BRASS) Trombone 2
+63 (BRASS) Soft Brass
+80 (SYNTH LEAD) Hollow
+81 (SYNTH LEAD) Dynamic Sawtooth
+98 (SYNTH EFFECTS) Tiny Bells
+99 (SYNTH EFFECTS) Warm Atmosphere
+Bank 0 19 0 19
+39 (BASS) Synth Bass 2 Dark
+80 (SYNTH LEAD) Shroud
+81 (SYNTH LEAD) Digital Sawtooth
+99 (SYNTH EFFECTS) Hollow Release
+Bank 0 20 0 20
+62 (BRASS) Resonant Synth Brass
+81 (SYNTH LEAD) Big Lead
+Bank 0 24 0 24
+17 (ORGAN) 70’s Percussive Organ
+Bank 0 27 0 27
+97 (SYNTH EFFECTS) Prologue
+Bank 0 28 0 28
+34 (BASS) Muted Pick Bass
+105 (WORLD) Muted Banjo
+Bank 0 32 0 32
+2 (PIANO) Detuned CP80
+4 (PIANO) Chorus Electric Piano 1
+5 (PIANO) Chorus Electric Piano 2
+16 (ORGAN) Detuned Drawbar Organ
+17 (ORGAN) Detuned Percussive Organ
+19 (ORGAN) Church Organ 3
+22 (ORGAN) Harmonica 2
+26 (GUITAR) Jazz Amp
+27 (GUITAR) Chorus Guitar
+35 (BASS) Fretless Bass 2
+36 (BASS) Punch Thumb Bass
+52 (ENSEMBLE) Mellow Choir
+56 (BRASS) Warm Trumpet
+60 (BRASS) French Horn 2
+104 (WORLD) Detuned Sitar
+Bank 0 33 0 33
+16 (ORGAN) 60’s Drawbar Organ 1
+17 (ORGAN) Light Organ
+35 (BASS) Fretless Bass 3
+Bank 0 34 0 34
+16 (ORGAN) 60’s Drawbar Organ 2
+35 (BASS) Fretless Bass 4
+Bank 0 35 0 35
+6 (PIANO) Harpsichord 2
+15 (CHROMATIC) Dulcimer 2
+16 (ORGAN) 70’s Drawbar Organ 1
+19 (ORGAN) Church Organ 2
+25 (GUITAR) 12-string Guitar
+48 (ENSEMBLE) 60’s Strings
+55 (ENSEMBLE) Orchestra Hit 2
+61 (BRASS) Trumpet & Trombone Section
+86 (SYNTH LEAD) Big Five
+98 (SYNTH EFFECTS) Round Glockenspiel
+104 (WORLD) Sitar 2
+Bank 0 37 0 37
+16 (ORGAN) 60’s Drawbar Organ 3
+17 (ORGAN) Percussive Organ 2
+60 (BRASS) Horn Orchestra
+Bank 0 40 0 40
+0 (PIANO) Piano Strings
+16 (ORGAN) 16+2’2/3
+19 (ORGAN) Notre Dame
+20 (ORGAN) Puff Organ
+25 (GUITAR) Nylon & Steel Guitar
+28 (GUITAR) Funk Guitar
+30 (GUITAR) Feedback Guitar
+32 (BASS) Jazz Rhythm
+33 (BASS) Bass & Distorted Electric Guitar
+38 (BASS) Techno Synth Bass
+39 (BASS) Modular Synth Bass
+44 (STRINGS) Suspense Strings
+46 (STRINGS) Yang Chin
+48 (ENSEMBLE) Orchestra
+49 (ENSEMBLE) Warm Strings
+52 (ENSEMBLE) Choir Strings
+54 (ENSEMBLE) Synth Voice 2
+65 (REED) Sax Section
+66 (REED) Breathy Tenor Sax
+98 (SYNTH EFFECTS) Glockenspiel Chimes
+99 (SYNTH EFFECTS) Nylon Electric Piano
+Bank 0 41 0 41
+0 (PIANO) Dream
+5 (PIANO) DX + Analog Electric Piano
+25 (GUITAR) Steel Guitar with Body Sound
+28 (GUITAR) Muted Steel Guitar
+30 (GUITAR) Feedback Guitar 2
+39 (BASS) DX Bass
+48 (ENSEMBLE) Orchestra 2
+49 (ENSEMBLE) Kingdom
+54 (ENSEMBLE) Choral
+63 (BRASS) Choir Brass
+98 (SYNTH EFFECTS) Clear Bells
+Bank 0 42 0 42
+48 (ENSEMBLE) Tremolo Orchestra
+98 (SYNTH EFFECTS) Chorus Bells
+Bank 0 43 0 43
+24 (GUITAR) Velocity Guitar Harmonics
+29 (GUITAR) Guitar Pinch
+33 (BASS) Finger Slap Bass
+37 (BASS) Velocity Switch Slap
+Bank 0 45 0 45
+28 (GUITAR) Jazz Man
+32 (BASS) Velocity Crossfade Upright Bass
+33 (BASS) Finger Bass 2
+48 (ENSEMBLE) Velocity Strings
+Bank 0 64 0 64
+10 (CHROMATIC) Orgel
+12 (CHROMATIC) Sine Marimba
+16 (ORGAN) Organ Bass
+18 (ORGAN) Rotary Organ
+19 (ORGAN) Organ Flute
+23 (ORGAN) Tango Accordion 2
+54 (ENSEMBLE) Analog Voice
+55 (ENSEMBLE) Impact
+80 (SYNTH LEAD) Mellow
+84 (SYNTH LEAD) Distorted Lead
+87 (SYNTH LEAD) Fat & Perky
+88 (SYNTH PAD) Fantasy
+99 (SYNTH EFFECTS) Nylon Harp
+101 (SYNTH EFFECTS) Goblins Synth
+117 (PERCUSSIVE) Melodic Tom 2
+118 (PERCUSSIVE) Analog Tom
+Bank 0 65 0 65
+16 (ORGAN) 70’s Drawbar Organ 2
+18 (ORGAN) Slow Rotary
+19 (ORGAN) Tremolo Organ Flute
+31 (GUITAR) Guitar Feedback
+33 (BASS) Modulated Bass
+80 (SYNTH LEAD) Solo Sine
+82 (SYNTH LEAD) Pure Lead
+87 (SYNTH LEAD) Soft Whirl
+96 (SYNTH EFFECTS) African Wind
+98 (SYNTH EFFECTS) Soft Crystal
+99 (SYNTH EFFECTS) Harp Vox
+101 (SYNTH EFFECTS) Creeper
+117 (PERCUSSIVE) Real Tom
+118 (PERCUSSIVE) Electronic Percussion
+Bank 0 66 0 66
+16 (ORGAN) Cheezy Organ
+18 (ORGAN) Fast Rotary
+31 (GUITAR) Guitar Harmonics 2
+80 (SYNTH LEAD) Sine Lead
+91 (SYNTH PAD) Itopia
+96 (SYNTH EFFECTS) Carib
+99 (SYNTH EFFECTS) Atmosphere Pad
+117 (PERCUSSIVE) Rock Tom
+Bank 0 67 0 67
+16 (ORGAN) Drawbar Organ 2
+101 (SYNTH EFFECTS) Ritual
+Bank 0 68 0 68
+101 (SYNTH EFFECTS) To Heaven
+Bank 0 70 0 70
+98 (SYNTH EFFECTS) Air Bells
+101 (SYNTH EFFECTS) Night
+Bank 0 71 0 71
+98 (SYNTH EFFECTS) Bell Harp
+101 (SYNTH EFFECTS) Glisten
+Bank 0 72 0 72
+98 (SYNTH EFFECTS) Gamelimba
+Bank 0 96 0 96
+14 (CHROMATIC) Church Bells
+15 (CHROMATIC) Cimbalom
+24 (GUITAR) Ukulele
+25 (GUITAR) Mandolin
+81 (SYNTH LEAD) Sequenced Analog
+101 (SYNTH EFFECTS) Bell Choir
+105 (WORLD) Rabab
+107 (WORLD) Taisho-kin
+112 (PERCUSSIVE) Bonang
+115 (PERCUSSIVE) Castanets
+116 (PERCUSSIVE) Gran Cassa
+Bank 0 97 0 97
+12 (CHROMATIC) Balimba
+14 (CHROMATIC) Carillon
+15 (CHROMATIC) Santur
+104 (WORLD) Tamboura
+105 (WORLD) Gopichant
+107 (WORLD) Kanoon
+112 (PERCUSSIVE) Altair
+114 (PERCUSSIVE) Glass Percussion
+Bank 0 98 0 98
+12 (CHROMATIC) Log Drums
+105 (WORLD) Oud
+112 (PERCUSSIVE) Gamelan Gongs
+114 (PERCUSSIVE) Thai Bells
+Bank 0 99 0 99
+112 (PERCUSSIVE) Stereo Gamelan Gongs
+Bank 0 100 0 100
+112 (PERCUSSIVE) Rama Cymbal
+Bank 0 112 0 112
+0 (PIANO) Grand Piano
+1 (PIANO) Bright Piano
+2 (PIANO) MIDI Grand Piano
+3 (PIANO) Honky-tonk Piano
+4 (E.PIANO) Funky Electric Piano
+5 (E.PIANO) DX Modern Electric Piano
+6 (PIANO) Harpsichord
+7 (E.PIANO) Clavi
+8 (PERCUSSION) Celesta
+10 (PERCUSSION) Music Box
+11 (PERCUSSION) Vibraphone
+12 (PERCUSSION) Marimba
+13 (PERCUSSION) Xylophone
+14 (PERCUSSION) Tubular Bells
+16 (ORGAN) Jazz Organ 1
+17 (ORGAN) Click Organ
+18 (ORGAN) Rock Organ
+19 (ORGAN) Church Organ
+20 (ORGAN) Reed Organ
+21 (ACCORDION) Musette Accordion
+22 (ACCORDION) Harmonica
+24 (GUITAR) Classical Guitar
+25 (GUITAR) Folk Guitar
+26 (GUITAR) Jazz Guitar
+27 (GUITAR) Clean Guitar
+28 (GUITAR) Muted Guitar
+29 (GUITAR) Overdriven Guitar
+30 (GUITAR) Distortion Guitar
+32 (BASS) Acoustic Bass
+33 (BASS) Finger Bass
+34 (BASS) Pick Bass
+35 (BASS) Fretless Bass
+36 (BASS) Slap Bass
+38 (BASS) Synth Bass
+40 (STRINGS) Violin
+42 (STRINGS) Cello
+43 (STRINGS) Contrabass
+44 (STRINGS) Tremolo Strings
+45 (STRINGS) Pizzicato Strings
+46 (STRINGS) Harp
+47 (PERCUSSION) Timpani
+48 (STRINGS) String Ensemble
+49 (STRINGS) Chamber Strings
+50 (STRINGS) Synth Strings
+52 (CHOIR) Choir
+53 (CHOIR) Vox Humana
+54 (CHOIR) Air Choir
+55 (STRINGS) Orchestra Hit
+56 (TRUMPET) Trumpet
+57 (TRUMPET) Trombone
+58 (TRUMPET) Tuba
+59 (TRUMPET) Muted Trumpet
+60 (TRUMPET) French Horn
+61 (BRASS) Brass Section
+62 (BRASS) Synth Brass
+64 (SAXOPHONE) Soprano Sax
+65 (SAXOPHONE) Alto Sax
+66 (SAXOPHONE) Tenor Sax
+67 (SAXOPHONE) Baritone Sax
+68 (SAXOPHONE) Oboe
+69 (SAXOPHONE) English Horn
+70 (SAXOPHONE) Bassoon
+71 (SAXOPHONE) Clarinet
+72 (FLUTE) Piccolo
+73 (FLUTE) Flute
+74 (FLUTE) Recorder
+75 (FLUTE) Pan Flute
+79 (FLUTE) Ocarina
+80 (SYNTH) Square Lead
+81 (SYNTH) Sawtooth Lead
+85 (SYNTH) Voice Lead
+88 (SYNTH) Fantasia
+91 (SYNTH) Xenon Pad
+94 (SYNTH) Equinox
+98 (SYNTH) Star Dust
+100 (SYNTH) Brightness
+105 (STRINGS) Banjo
+114 (PERCUSSION) Steel Drums
+Bank 0 113 0 113
+2 (PIANO) CP 80
+5 (E.PIANO) Hyper Tines
+16 (ORGAN) Jazz Organ 2
+19 (ORGAN) Chapel Organ
+21 (ACCORDION) Traditional Accordion
+23 (ACCORDION) Bandoneon
+25 (GUITAR) 12Strings Guitar
+26 (GUITAR) Octave Guitar
+38 (BASS) Hi-Q Bass
+39 (BASS) Dance Bass
+49 (STRINGS) Slow Strings
+52 (CHOIR) Vocal Ensemble
+57 (TRUMPET) Trombone Section
+61 (BRASS) Big Band Brass
+62 (BRASS) 80’s Brass
+89 (SYNTH) Dark Moon
+100 (SYNTH) Bell Pad
+Bank 0 114 0 114
+4 (E.PIANO) Cool! Galaxy Electric Piano
+5 (E.PIANO) Venus Electric Piano
+18 (ORGAN) Purple Organ
+62 (BRASS) Techno Brass
+66 (SAXOPHONE) Breathy Tenor Sax
+Bank 0 115 0 115
+81 (SYNTH) Analogon
+Bank 0 116 0 116
+16 (ORGAN) Bright Organ
+Bank 0 117 0 117
+27 (GUITAR) 60’s Clean Guitar
+Bank 0 119 0 119
+61 (BRASS) Mellow Horns
+81 (SYNTH) Fargo
+Bank 0 120 0 120
+19 (ORGAN) 16’+4’ Organ
+Bank 0 121 0 121
+19 (ORGAN) 16’+2’ Organ
+Bank 0 127 0 127
+18 (ORGAN) Theater Organ
+Bank 64 0 64 0
+0 (SOUND EFFECTS) Cutting Noise
+1 (SOUND EFFECTS) Cutting Noise 2
+3 (SOUND EFFECTS) String Slap
+16 (SOUND EFFECTS) Flute Key Click
+32 (SOUND EFFECTS) Shower
+33 (SOUND EFFECTS) Thunder
+34 (SOUND EFFECTS) Wind
+35 (SOUND EFFECTS) Stream
+36 (SOUND EFFECTS) Bubble
+37 (SOUND EFFECTS) Feed
+48 (SOUND EFFECTS) Dog
+49 (SOUND EFFECTS) Horse
+50 (SOUND EFFECTS) Bird Tweet 2
+55 (SOUND EFFECTS) Maou
+64 (SOUND EFFECTS) Phone Call
+65 (SOUND EFFECTS) Door Squeak
+66 (SOUND EFFECTS) Door Slam
+67 (SOUND EFFECTS) Scratch Cut
+68 (SOUND EFFECTS) Scratch Split
+69 (SOUND EFFECTS) Wind Chime
+70 (SOUND EFFECTS) Telephone Ring 2
+80 (SOUND EFFECTS) Car Engine Ignition
+81 (SOUND EFFECTS) Car Tires Squeal
+82 (SOUND EFFECTS) Car Passing
+83 (SOUND EFFECTS) Car Crash
+84 (SOUND EFFECTS) Siren
+85 (SOUND EFFECTS) Train
+86 (SOUND EFFECTS) Jet Plane
+87 (SOUND EFFECTS) Starship
+88 (SOUND EFFECTS) Burst
+89 (SOUND EFFECTS) Roller Coaster
+90 (SOUND EFFECTS) Submarine
+96 (SOUND EFFECTS) Laugh
+97 (SOUND EFFECTS) Scream
+98 (SOUND EFFECTS) Punch
+99 (SOUND EFFECTS) Heartbeat
+100 (SOUND EFFECTS) Footsteps
+112 (SOUND EFFECTS) Machine Gun
+113 (SOUND EFFECTS) Laser Gun
+114 (SOUND EFFECTS) Explosion
+115 (SOUND EFFECTS) Firework
+Bank 126 0 126 0
+0 (DRUM KITS) SFX Kit 1
+1 (DRUM KITS) SFX Kit 2
+112 (DRUM KITS) Sound Effect Kit
+Bank 127 0 127 0
+0 (DRUM KITS) Standard Kit 1
+1 (DRUM KITS) Standard Kit 2
+8 (DRUM KITS) Room Kit
+16 (DRUM KITS) Rock Kit
+24 (DRUM KITS) Electronic Kit
+25 (DRUM KITS) Analog Kit
+32 (DRUM KITS) Jazz Kit
+40 (DRUM KITS) Brush Kit
+48 (DRUM KITS) Symphony Kit
+112 (DRUM KITS) Dance Kit

@@ -1,0 +1,14 @@
+// Generated using using rea-parse.py
+Bank 0 0 0 0
+88 (SYNTH PAD) New Age Pad
+89 (SYNTH PAD) Warm Pad
+90 (SYNTH PAD) Poly Synth Pad
+91 (SYNTH PAD) Choir Pad
+92 (SYNTH PAD) Bowed Pad
+93 (SYNTH PAD) Metallic Pad
+94 (SYNTH PAD) Halo Pad
+95 (SYNTH PAD) Sweep Pad
+Bank 0 64 0 64
+88 (SYNTH PAD) Fantasy
+Bank 0 66 0 66
+91 (SYNTH PAD) Itopia

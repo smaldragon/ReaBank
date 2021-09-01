@@ -1,0 +1,400 @@
+// Generated using using rea-parse.py
+Bank 0 64 0 64
+3 (Piano) Ragtime Piano
+88 (Other) D50 Fantasia
+89 (Pad) Soft Pad
+Bank 0 65 0 65
+54 (Other) Jazz Scat  
+Bank 0 66 0 66
+16 (Organ) Lower Organ
+19 (Organ) ChurchOrgan1
+32 (Other) A.Bass+Cymbl
+33 (Other) Comp'd JBass
+50 (Pad) Solina     
+92 (Pad) Legend Pad 
+102 (Other) D50 DigiNDnc
+Bank 0 67 0 67
+6 (Piano) Harpsichord
+32 (Other) Ac.Bass wRel
+50 (Pad) Tron Strings
+97 (Pad) ChordofCnada
+102 (Other) DelyResoSaws
+Bank 0 68 0 68
+0 (Piano) Concert Piano
+5 (E. Piano) 80's FM EP 
+50 (Pad) JP8 Strings
+97 (Pad) Boreal Pad 
+Bank 0 69 0 69
+4 (E. Piano) Tremolo EP 
+5 (E. Piano) MetalicEP Ex
+16 (Organ) Full Stops 
+18 (Organ) Ballad Organ
+97 (Pad) New Jupiter
+Bank 0 70 0 70
+18 (Organ) Combo Jz.Org
+46 (Strings) Harpiness  
+73 (Other) StrawberyFlt
+Bank 0 71 0 71
+16 (Organ) Gospel Spin
+49 (Strings) Rich Strings
+100 (Other) D50 FuturePd
+Bank 1 64 1 64
+7 (E. Piano) BrillClav DB
+88 (Pad) D50 StackPad
+90 (Other) Flip Pad   
+91 (Pad) Voice of Hvn
+Bank 1 65 1 65
+0 (Piano) Mellow Upright
+7 (E. Piano) BrillClavWah
+18 (Organ) B.Organ Slow
+49 (Strings) SymphonicStr2
+88 (Other) D50 Stac Hvn
+90 (Other) Trancy Synth
+Bank 1 66 1 66
+0 (Piano) Bright Upright
+53 (Pad) Air Pad    
+60 (Strings) OrchestraBrs
+Bank 1 67 1 67
+48 (Strings) Epic Strings
+49 (Strings) SymphonicStr1
+Bank 1 70 1 70
+89 (Pad) JP8 Hollow 
+Bank 1 71 1 71
+89 (Pad) Super SynPad
+Bank 2 66 2 66
+0 (Piano) Bright Forte
+Bank 4 64 4 64
+0 (Piano) Mellow Piano
+Bank 8 64 8 64
+2 (Piano) Rock Piano
+Bank 8 66 8 66
+1 (Piano) Bright Piano
+48 (Strings) Orchestra
+Bank 8 67 8 67
+6 (Piano) Harpsi 8'+4'
+81 (Other) Super Saw  
+Bank 8 68 8 68
+4 (E. Piano) Phase EP Mix
+5 (E. Piano) EP Belle
+81 (Other) EQ Lead    
+Bank 8 69 8 69
+4 (E. Piano) VR EP 1    
+19 (Organ) ChurchOrgan2
+Bank 8 70 8 70
+4 (E. Piano) Tine EP Lite
+19 (Organ) Pipe Organ
+Bank 8 71 8 71
+2 (Piano) SA Piano 3 
+4 (E. Piano) 1976SuitCase
+52 (Pad) Choir Aahs 1
+Bank 8 72 8 72
+2 (Piano) 70's E.Grand
+52 (Pad) Choir Aahs 2
+Bank 16 64 16 64
+0 (Piano) Upright Piano
+48 (Strings) Chamber Str
+Bank 16 65 16 65
+16 (Organ) Animal Mod 
+48 (Strings) String Exp 
+Bank 16 66 16 66
+16 (Organ) Surf Monkeys
+19 (Organ) Nason flt 8'
+48 (Strings) Full Strings
+Bank 16 67 16 67
+0 (Piano) Ballad Piano
+16 (Organ) Rising Sun 
+48 (Strings) Strings forI
+Bank 16 70 16 70
+4 (E. Piano) ModifiedDyno
+Bank 25 64 25 64
+4 (E. Piano) Wurly 200  
+Bank 25 65 25 65
+4 (E. Piano) Pure Wurly 
+Bank 32 64 32 64
+5 (E. Piano) SA E.Piano 1
+Bank 32 65 32 65
+5 (E. Piano) SA E.Piano 2
+Bank 32 66 32 66
+5 (E. Piano) SA EP1 Stack
+Bank 32 68 32 68
+16 (Organ) Mellow Bars
+Bank 32 69 32 69
+16 (Organ) Light Organ
+Bank 47 65 47 65
+2 (Piano) Magical Piano
+Bank 120 0 120 0
+0 (Drums) STANDARD Set
+8 (Drums) ROOM Set
+16 (Drums) POWER Set
+24 (Drums) ELEC.Set
+25 (Drums) ANALOG Set
+32 (Drums) JAZZ Set
+40 (Drums) BRUSH Set
+48 (Drums) ORCH.Set
+56 (Drums) SFX Set
+Bank 121 0 121 0
+0 (GM2) Piano 1
+1 (GM2) Piano 2
+2 (GM2) Piano 3
+3 (GM2) Honky-tonk
+4 (GM2) E.Piano 1
+5 (GM2) E.Piano 2
+6 (GM2) Harpsi.
+7 (GM2) Clav.
+8 (GM2) Celesta
+9 (GM2) Glockenspiel
+10 (GM2) Music Box
+11 (GM2) Vibraphone
+12 (GM2) Marimba
+13 (GM2) Xylophone
+14 (GM2) TubularBells
+15 (GM2) Santur
+16 (GM2) Organ 1
+17 (GM2) Perc.Organ 1
+18 (GM2) Rock Organ
+19 (GM2) Church Org.1
+20 (GM2) Reed Organ
+21 (GM2) Accordion 1
+22 (GM2) Harmonica
+23 (GM2) Bandoneon
+24 (GM2) Nylon-str.Gt
+25 (GM2) Steel-str.Gt
+26 (GM2) Jazz Guitar
+27 (GM2) Clean Guitar
+28 (GM2) Muted Guitar
+29 (GM2) Overdrive Gt
+30 (GM2) DistortionGt
+31 (GM2) Gt Harmonics
+32 (GM2) AcousticBass
+33 (GM2) FingeredBass
+34 (GM2) Picked Bass
+35 (GM2) FretlessBass
+36 (GM2) Slap Bass 1
+37 (GM2) Slap Bass 2
+38 (GM2) Synth Bass 1
+39 (GM2) Synth Bass 2
+40 (GM2) Violin
+41 (GM2) Viola
+42 (GM2) Cello
+43 (GM2) Contrabass
+44 (GM2) Tremolo Str.
+45 (GM2) PizzicatoStr
+46 (GM2) Harp
+47 (GM2) Timpani
+48 (GM2) Strings
+49 (GM2) Slow Strings
+50 (GM2) Syn.Strings1
+51 (GM2) Syn.Strings2
+52 (GM2) Choir 1
+53 (GM2) Voice
+54 (GM2) Synth Voice
+55 (GM2) OrchestraHit
+56 (GM2) Trumpet
+57 (GM2) Trombone 1
+58 (GM2) Tuba
+59 (GM2) MuteTrumpet1
+60 (GM2) French Horn1
+61 (GM2) Brass 1
+62 (GM2) Synth Brass1
+63 (GM2) Synth Brass2
+64 (GM2) Soprano Sax
+65 (GM2) Alto Sax
+66 (GM2) Tenor Sax
+67 (GM2) Baritone Sax
+68 (GM2) Oboe
+69 (GM2) English Horn
+70 (GM2) Bassoon
+71 (GM2) Clarinet
+72 (GM2) Piccolo
+73 (GM2) Flute
+74 (GM2) Recorder
+75 (GM2) Pan Flute
+76 (GM2) Bottle Blow
+77 (GM2) Shakuhachi
+78 (GM2) Whistle
+79 (GM2) Ocarina
+80 (GM2) Square Lead1
+81 (GM2) Saw Lead 1
+82 (GM2) Syn.Calliope
+83 (GM2) Chiffer Lead
+84 (GM2) Charang
+85 (GM2) Solo Vox
+86 (GM2) 5th Saw Lead
+87 (GM2) Bass+Lead
+88 (GM2) Fantasia
+89 (GM2) Warm Pad
+90 (GM2) Polysynth
+91 (GM2) Space Voice
+92 (GM2) Bowed Glass
+93 (GM2) Metallic Pad
+94 (GM2) Halo Pad
+95 (GM2) Sweep Pad
+96 (GM2) Ice Rain
+97 (GM2) Soundtrack
+98 (GM2) Crystal
+99 (GM2) Atmosphere
+100 (GM2) Brightness
+101 (GM2) Goblins
+102 (GM2) Echo Drops
+103 (GM2) Star Theme
+104 (GM2) Sitar 1
+105 (GM2) Banjo
+106 (GM2) Shamisen
+107 (GM2) Koto
+108 (GM2) Kalimba
+109 (GM2) Bagpipe
+110 (GM2) Fiddle
+111 (GM2) Shanai
+112 (GM2) Tinkle Bell
+113 (GM2) Agogo
+114 (GM2) Steel Drums
+115 (GM2) Woodblock
+116 (GM2) Taiko
+117 (GM2) Melodic Tom1
+118 (GM2) Synth Drum
+119 (GM2) Reverse Cym.
+120 (GM2) Gt FretNoise
+121 (GM2) Breath Noise
+122 (GM2) Seashore
+123 (GM2) Bird 1
+124 (GM2) Telephone 1
+125 (GM2) Helicopter
+126 (GM2) Applause
+127 (GM2) Gun Shot
+Bank 121 1 121 1
+0 (GM2) Piano 1w
+1 (GM2) Piano 2w
+2 (GM2) Piano 3w
+3 (GM2) Honky-tonk w
+4 (GM2) Detuned EP 1
+5 (GM2) Detuned EP 2
+6 (GM2) Coupled Hps.
+7 (GM2) Pulse Clav.
+11 (GM2) Vibraphone w
+12 (GM2) Marimba w
+14 (GM2) Church Bell
+16 (GM2) TremoloOrgan
+17 (GM2) Chorus Organ
+19 (GM2) Church Org.2
+20 (GM2) Puff Organ
+21 (GM2) Accordion 2
+24 (GM2) Ukulele
+25 (GM2) 12-str.Gt
+26 (GM2) Hawaiian Gt
+27 (GM2) Chorus Gt 1
+28 (GM2) Funk Guitar1
+29 (GM2) Guitar Pinch
+30 (GM2) Gt Feedback1
+31 (GM2) Gt Feedback2
+33 (GM2) Finger Slap
+38 (GM2) WarmSyn.Bass
+39 (GM2) Synth Bass 4
+40 (GM2) Slow Violin
+46 (GM2) Yang Qin
+48 (GM2) Orchestra
+50 (GM2) Syn.Strings3
+52 (GM2) Choir 2
+53 (GM2) Humming
+54 (GM2) Analog Voice
+55 (GM2) Bass Hit
+56 (GM2) Dark Trumpet
+57 (GM2) Trombone 2
+59 (GM2) MuteTrumpet2
+60 (GM2) French Horn2
+61 (GM2) Brass 2
+62 (GM2) Synth Brass3
+63 (GM2) Synth Brass4
+80 (GM2) Square Lead2
+81 (GM2) Saw Lead 2
+84 (GM2) Wire Lead
+87 (GM2) Delayed Lead
+89 (GM2) Sine Pad
+91 (GM2) Itopia
+98 (GM2) Synth Mallet
+102 (GM2) Echo Bell
+104 (GM2) Sitar 2
+107 (GM2) Taisho Koto
+115 (GM2) Castanets
+116 (GM2) Concert BD
+117 (GM2) Melodic Tom2
+118 (GM2) TR-808 Tom
+120 (GM2) Gt Cut Noise
+121 (GM2) Fl.Key Click
+122 (GM2) Rain
+123 (GM2) Dog
+124 (GM2) Telephone 2
+125 (GM2) Car Engine
+126 (GM2) Laughing
+127 (GM2) Machine Gun
+Bank 121 2 121 2
+0 (GM2) Piano 1d
+4 (GM2) Vintage EP
+5 (GM2) St.FM EP
+6 (GM2) Harpsi.w
+14 (GM2) Carillon
+16 (GM2) '60s Organ
+17 (GM2) Perc.Organ 2
+19 (GM2) Church Org.3
+24 (GM2) Nylon Gt o
+25 (GM2) Mandolin
+27 (GM2) Mid Tone Gt
+28 (GM2) Funk Guitar2
+30 (GM2) Dist.Rtm Gt
+38 (GM2) Synth Bass 3
+39 (GM2) RubberSyn.Bs
+48 (GM2) '60s Strings
+55 (GM2) 6th Hit
+57 (GM2) Bright Tb
+62 (GM2) AnalogBrass1
+63 (GM2) AnalogBrass2
+80 (GM2) Sine Lead
+81 (GM2) Doctor Solo
+102 (GM2) Echo Pan
+118 (GM2) Elec.Perc.
+120 (GM2) BsStringSlap
+122 (GM2) Thunder
+123 (GM2) Horse Gallop
+124 (GM2) DoorCreaking
+125 (GM2) Car Stop
+126 (GM2) Screaming
+127 (GM2) Laser Gun
+Bank 121 3 121 3
+4 (GM2) '60s E.Piano
+5 (GM2) EP Legend
+6 (GM2) Harpsi.o
+16 (GM2) Organ 2
+24 (GM2) Nylon Gt 2
+25 (GM2) Steel+Body
+28 (GM2) Chorus Gt 2
+38 (GM2) Clav.Bass
+39 (GM2) Attack Pulse
+55 (GM2) Euro Hit
+62 (GM2) Jump Brass
+81 (GM2) Natural Lead
+122 (GM2) Wind
+123 (GM2) Bird 2
+124 (GM2) Door
+125 (GM2) Car Pass
+126 (GM2) Punch
+127 (GM2) Explosion
+Bank 121 4 121 4
+5 (GM2) EP Phase
+38 (GM2) Hammer
+81 (GM2) SequencedSaw
+122 (GM2) Stream
+124 (GM2) Scratch
+125 (GM2) Car Crash
+126 (GM2) Heart Beat
+Bank 121 5 121 5
+122 (GM2) Bubble
+124 (GM2) Wind Chimes
+125 (GM2) Siren
+126 (GM2) Footsteps
+Bank 121 6 121 6
+125 (GM2) Train
+Bank 121 7 121 7
+125 (GM2) Jetplane
+Bank 121 8 121 8
+125 (GM2) Starship
+Bank 121 9 121 9
+125 (GM2) Burst Noise

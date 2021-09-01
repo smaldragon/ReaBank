@@ -1,0 +1,38 @@
+// Generated using using rea-parse.py
+Bank 0 0 0 0
+48 (ENSEMBLE) Strings 1
+49 (ENSEMBLE) Strings 2
+50 (ENSEMBLE) Synth Strings 1
+51 (ENSEMBLE) Synth Strings 2
+52 (ENSEMBLE) Choir Aahs
+53 (ENSEMBLE) Voice Oohs
+54 (ENSEMBLE) Synth Voice
+55 (ENSEMBLE) Orchestra Hit
+Bank 0 3 0 3
+48 (ENSEMBLE) Stereo Strings
+49 (ENSEMBLE) Stereo Slow Strings
+52 (ENSEMBLE) Stereo Choir
+Bank 0 8 0 8
+48 (ENSEMBLE) Slow Strings
+49 (ENSEMBLE) Legato Strings
+Bank 0 32 0 32
+52 (ENSEMBLE) Mellow Choir
+Bank 0 35 0 35
+48 (ENSEMBLE) 60’s Strings
+55 (ENSEMBLE) Orchestra Hit 2
+Bank 0 40 0 40
+48 (ENSEMBLE) Orchestra
+49 (ENSEMBLE) Warm Strings
+52 (ENSEMBLE) Choir Strings
+54 (ENSEMBLE) Synth Voice 2
+Bank 0 41 0 41
+48 (ENSEMBLE) Orchestra 2
+49 (ENSEMBLE) Kingdom
+54 (ENSEMBLE) Choral
+Bank 0 42 0 42
+48 (ENSEMBLE) Tremolo Orchestra
+Bank 0 45 0 45
+48 (ENSEMBLE) Velocity Strings
+Bank 0 64 0 64
+54 (ENSEMBLE) Analog Voice
+55 (ENSEMBLE) Impact
