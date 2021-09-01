@@ -7,7 +7,7 @@ Includes .reabank files for several midi keyboards, allowing their instruments t
 
 Several .reabank files are included per keyboard, one containing all the instruments, and smaller ones split by category.
 
-The .reabank files can be downloaded from the [releases](https://github.com/smaldragon/ReaBank/releases/) page.
+The .reabank files can be downloaded from the [releases](https://github.com/smaldragon/ReaBank/releases/) page in a .zip format, or by cloning this repo.
 
 ---
 
