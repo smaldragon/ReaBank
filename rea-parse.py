@@ -9,7 +9,8 @@ def generate (folder):
 
     # Read the data
     with open(f'{folder}/pdfdata.txt','r') as f:
-        _i_no,_name,_msb,_lsb,_pc = 0,0,0,0,0
+        dati = {}
+        brak = []
         first_line = True
         curheader = ''
         for line in f.readlines():
@@ -24,33 +25,46 @@ def generate (folder):
                     if p or entries[i]=='name':
                         i_use = -len(entries) + i
                         p = True
-                    if entries[i] == 'i_no':
-                        _i_no = i_use
-                    if entries[i] == 'msb':
-                        _msb  = i_use
-                    if entries[i] == 'lsb':
-                        _lsb  = i_use
-                    if entries[i] == 'pc':
-                        _pc   = i_use
-                    if entries[i] == 'name':
+                    e = entries[i]
+                    if e[0] == '(':
+                        e = e[1:-1]
+                        brak.append(e)
+                    if e in ['i_no','msb','lsb','pc']:
+                        dati[e] = i_use
+                    elif e == 'name':
                         if i != len(entries)-1:
-                            _name = slice(i,i_use+1,1)
+                            dati[e] = slice(i,i_use+1,1)
                         else:
-                            _name = slice(i,None,1)
+                            dati[e] = slice(i,None,1)
                 first_line = False
-                print('layout',line,_i_no,_name,_msb,_lsb,_pc)
+                print('layout',dati)
                 continue
             # Read a copy-pasted entry
-            entries[_i_no] = entries[_i_no].replace('*','') # edge case for psr data
-            if entries[0].isdigit():
+            if len(entries) > dati['i_no']:
+                entries[dati['i_no']] = entries[dati['i_no']].replace('*','') # edge case for psr data
+            def grab(dat):
+                d = dati[dat]
+                if type(d) != slice:
+                    if d >= len(entries):
+                        return ""
+                print(d,entries)
+                if dat in brak and entries[d][0] == "(":
+                    return entries[d][1:-1]
+                else:
+                    return entries[d]
+            
+            if grab('i_no').isdigit():
                 # this is an instrument
-                i_no = int(entries[_i_no])
-                name = ' '.join(entries[_name])
-                msb  = int(entries[_msb])
-                lsb  = int(entries[_lsb])
-                pc   = int(entries[_pc])-1
-
-                info = f'{pc} ({curheader}) {name}'
+                i_no = int(grab('i_no'))
+                name = ' '.join(grab('name'))
+                msb  = int(grab('msb'))
+                lsb  = int(grab('lsb'))
+                pc   = int(grab('pc'))-1
+                
+                heada = curheader
+                if heada != '':
+                    heada = f'({heada}) '
+                info = f'{pc} {heada}{name}'
                 
                 if not msb in data:
                     data[msb] = {}
