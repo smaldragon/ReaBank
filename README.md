@@ -1,6 +1,6 @@
 # ReaBank Files
 
-Includes .reabank files for several midi keyboards, allowing their instruments to be selected from within a daw using the Reaper ReaControlMIDI vst:
+Includes `.reabank` files for several midi keyboards, allowing their instruments to be selected from within a daw using the Reaper ReaControlMIDI vst:
 
 * **Roland FP-90** (should also work with other keyboards in the FP- series)
 * **Yamaha PSR-E323**
@@ -8,6 +8,8 @@ Includes .reabank files for several midi keyboards, allowing their instruments t
 Several .reabank files are included per keyboard, one containing all the instruments, and smaller ones split by category.
 
 The .reabank files can be downloaded from the [releases](https://github.com/smaldragon/ReaBank/releases/) page in a .zip format, or by cloning this repo.
+
+The program now also exports `.json` files in addition to the `.reabank` files, these can be useful for further manipulation of the data.
 
 ---
 
@@ -17,4 +19,4 @@ The files are generated with the python `rea-parse.py` script, based on copy-pas
 
 When run, the script looks for folders within its directory that contain a `pdfdata.txt`file. This file contains a simple short header in the first line describing the layout of the data table (ie. `i_no name msb lsb pc`) followed by the data itself, as copied from the pdf manual. 
 
-If a field is to be found inside brackets this can be specified in the header (ie `(i_no) name msb lsb pc`).
+If a field is to be found inside brackets this can also be specified in the header (ie `(i_no) name msb lsb pc`).
